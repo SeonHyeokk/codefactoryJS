@@ -1,0 +1,4 @@
+Java Script
+
+1. Visual Studio Code. (IDE) 대중적으로 많이 사용함
+2. Code Runner, Live Server(Extensions)

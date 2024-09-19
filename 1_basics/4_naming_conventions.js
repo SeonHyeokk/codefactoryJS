@@ -1,5 +1,5 @@
 /**
- * Naming Conventions
+ * Naming Convention
  * 
  * 변수이름지을때
  * 1) 일반적으로 영어(라틴문자)를 사용하며 문자와 숫자를 모두 사용 할 수 있다.
@@ -17,3 +17,14 @@ const _yuJin= '안유진';
 console.log(codefactory)
 console.log($ive)
 console.log(_yuJin)
+
+/**
+ * Naming Convention 2
+ * 
+ * 1) camelCase
+ * 2) snake_case
+ * 3) PascalCase
+ */
+
+const anYujin = '안유진';
+console.log(anYujin)

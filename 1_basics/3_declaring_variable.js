@@ -40,3 +40,5 @@ console.log(name);
 
 let girlFriend;
 console.log(girlFriend);
+
+// const girlFriend2;
